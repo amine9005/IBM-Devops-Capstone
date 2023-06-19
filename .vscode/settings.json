@@ -1,0 +1,10 @@
+{
+    "python.testing.pytestArgs": [
+        ".",
+        "--cov-report",
+        "html",
+        "--cov"
+    ],
+    "python.testing.unittestEnabled": false,
+    "python.testing.pytestEnabled": true
+}
